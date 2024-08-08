@@ -1,2 +1,12 @@
-# mini-ml-projects
-Welcome to my repository of mini machine learning projects! This repository contains various small-scale ML projects that I’ve worked on as part of my learning journey.
+# Mini ML Projects
+
+Welcome to the Mini ML Projects repository! This repository contains various small-scale machine learning projects that I've worked on during my learning journey. Each project showcases different machine learning techniques and provides practical insights into the field.
+
+## Projects
+
+### 1. [Spam Classifier](https://github.com/IrfanKpm/mini-ml-projects/tree/main/spam-message-classification)
+
+A spam classifier project using Logistic Regression and TF-IDF Vectorizer. The model is trained to classify emails as either "spam" or "ham".
+
+
+
