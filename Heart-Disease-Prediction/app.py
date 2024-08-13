@@ -29,7 +29,7 @@ input_data_df = pd.DataFrame(input_data_as_array, columns=feature_names)
 prediction = saved_model.predict(input_data_df)
 
 # Output the prediction result
-if prediction[0] == 1:
+if prediction[0] == 0: 
     print("\n[~] The model predicts: Healthy heart.")
 else:
     print("\n[!] The model predicts: Defective heart.")
