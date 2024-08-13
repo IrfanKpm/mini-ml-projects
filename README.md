@@ -15,3 +15,7 @@ This project utilizes a logistic regression model to predict heart disease based
 ### 3. [Breast Cancer Classification](https://github.com/IrfanKpm/mini-ml-projects/tree/main/breast-cancer-classification)
 
 This project uses a Logistic Regression model to classify breast cancer as either benign or malignant based on input features derived from the Breast Cancer Wisconsin dataset. It includes scripts for training the model, making predictions, and visualizing the results.
+
+### 4. [Movie Recommendation System](https://github.com/IrfanKpm/mini-ml-projects/tree/main/movie-recommendation-system)
+
+A content-based movie recommendation system using TF-IDF Vectorizer and Cosine Similarity. This project suggests movies based on user preferences by analyzing genres, keywords, tagline, cast, and director of movies.
